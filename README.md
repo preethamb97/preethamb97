@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Preetham. My favorites [nodejs, python and golang].
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153). My favorites [nodejs, python and golang].
 
 - 💬 Ask me about [Nodejs]() and [golang]() and [python]()!
 - 📫 How to reach me: `preethamb97@gmail.com`
