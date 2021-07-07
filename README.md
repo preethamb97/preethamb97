@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Preetham. My favorites [nodejs, python and golang].
 
-- 💬 Ask me about [Nodejs] and [golang] and [python]!
+- 💬 Ask me about [Nodejs]() and [golang]() and [python]()!
 - 📫 How to reach me: `preethamb97@gmail.com`
 
 <a href="https://twitter.com/preethamb97">
