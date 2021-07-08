@@ -20,6 +20,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97)
 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="preetham-b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/preetham-b?trk=profile-badge">preetham b</a></div>
+              
+              
 **languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
