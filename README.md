@@ -1,4 +1,4 @@
-<img align="right" width: "40%" height: "60%" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamgif.gif">
+<img align="right" width: "40" height: "60" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamgif.gif">
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).</img>
 
