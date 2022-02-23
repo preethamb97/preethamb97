@@ -1,5 +1,5 @@
-<div style="position: relative;">
-  <div>
+<div>
+  <div style="float: left;">
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).</img>
 
 - 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
@@ -20,7 +20,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97)
   </div>
-  <div>
+  <div style="float: right;">
     <img height="200" width="200" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamgif.gif">
   </div>
  </div>
