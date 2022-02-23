@@ -1,4 +1,4 @@
-<div>
+<div style="flex: 1;">
   <div style="float: left;">
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).</img>
 
