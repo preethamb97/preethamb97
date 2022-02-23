@@ -21,7 +21,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97)
   </div>
   <div style="float: right;">
-    <img height="200" width="200" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamgif.gif">
+    <img height="200" align="right" width="200" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamgif.gif">
   </div>
  </div>
 
