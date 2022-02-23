@@ -1,4 +1,3 @@
-<img object-fit="contain" align="right" width="25%" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/preethamnewgif.gif">
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
 
 - 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
