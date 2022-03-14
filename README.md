@@ -55,3 +55,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="preethamb97" />
 
 ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/dbzgoku.gif" object-fit="contain" align="right" width="100%" >
