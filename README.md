@@ -43,6 +43,12 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>](https://atom.io/)
 [<code><img height="20" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>](https://aws.amazon.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>](https://www.typescriptlang.org/)
+[<code><img height="20" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"></code>](https://nestjs.com/)
+[<code><img height="20" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"></code>](https://nextjs.org/)
+[<code><img height="20" src="https://miro.medium.com/max/694/1*5966_Q-hTIeptpiOmy52mg.png"></code>](https://jestjs.io/docs/getting-started)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactjs.org/)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactnative.dev/)
 
 📈 my github stats
 
