@@ -17,6 +17,9 @@
 <a href="https://www.hackerearth.com/@preethamb97">
   <img align="left" alt="Preetham's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" />
 
+<a href="https://leetcode.com/Preetham_b_97/">
+  <img align="left" alt="Preetham's Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97)
 
 **languages and tools:**  
