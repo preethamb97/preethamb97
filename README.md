@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
 
-Check out my website: [preethamb97.in]([https://www.preethamb97.in](https://preetham-portfolio-sde.s3.ap-south-1.amazonaws.com/index.html)
+Check out my website: [preethamb97.in](https://preetham-portfolio-sde.s3.ap-south-1.amazonaws.com/index.html)
+preethamb97.in website in progress until then please use above webpage
 
 - 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `preethamb97@gmail.com`
