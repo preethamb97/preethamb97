@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
 
-Check out my website: [preethamb97.in](https://preetham-portfolio-sde.s3.ap-south-1.amazonaws.com/index.html)
-preethamb97.in website in progress until then please use above webpage
+Check out my website: [portfolio](https://preethamb97.github.io/preetham-portfolio)
 
 - 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `preethamb97@gmail.com`
 
-<a href="https://www.linkedin.com/in/preetham-b-95a962153/">
+<a href="https://www.linkedin.com/in/preetham-b">
   <img align="left" alt="Preetham's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="https://www.instagram.com/preetham_acharya__/?hl=en">
+<a href="https://www.instagram.com/preethamb1997/?hl=en">
   <img align="left" alt="Preetham's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 <a href="https://open.spotify.com/user/gs664afjszbfev7wyf63xn9l8">
