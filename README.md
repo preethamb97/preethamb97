@@ -53,10 +53,6 @@ Check out my website: [portfolio](https://preethamb97.github.io/preetham-portfol
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactjs.org/)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactnative.dev/)
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="preethamb97" />
-
 ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
 
 - I can do this `All day` 😈
