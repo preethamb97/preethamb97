@@ -8,9 +8,9 @@ Check out my website: [portfolio](https://preethamb97.github.io/preetham-portfol
 <a href="https://www.linkedin.com/in/preetham-b">
   <img align="left" alt="Preetham's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="https://www.instagram.com/preethamb1997/?hl=en">
+<!-- <a href="https://www.instagram.com/preethamb1997/?hl=en">
   <img align="left" alt="Preetham's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
+</a> -->
 <a href="https://open.spotify.com/user/gs664afjszbfev7wyf63xn9l8">
   <img align="left" alt="Preetham's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 <!-- <a href="https://www.fiverr.com/preethamb">
