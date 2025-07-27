@@ -2,7 +2,6 @@
 
 Check out my website: [portfolio](https://preethamb97.github.io/preetham-portfolio) [trackingApp](https://trackitall.in)
 
-- 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `preethamb97@gmail.com`
 
 <a href="https://www.linkedin.com/in/preetham-b">
