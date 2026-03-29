@@ -109,11 +109,22 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Engineering & Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E71837?style=for-the-badge&logo=solidworks&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge&logo=systemd&logoColor=white)
+
+### Design Patterns
+![Orchestrator](https://img.shields.io/badge/Orchestrator-8B5CF6?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-EF4444?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Singleton](https://img.shields.io/badge/Singleton-10B981?style=for-the-badge&logo=singleton&logoColor=white)
+![Chain of Responsibility](https://img.shields.io/badge/Chain_of_Responsibility-F59E0B?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
