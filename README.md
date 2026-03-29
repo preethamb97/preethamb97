@@ -36,6 +36,47 @@
 
 ---
 
+<div align="center">
+
+## 🔥 **Motivation**
+
+<img src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/dbzgoku.gif" width="100%" height="500px">
+
+**I can do this all day!** 😈
+
+---
+
+> *"I'm gonna be King of the Pirates!"*
+> — **Monkey D. Luffy** 👒
+
+> *"When do you think people die? When they are shot through the heart by the bullet of a pistol? No! It's when... they are forgotten."*
+> — **Dr. Hiluluk** 💀
+
+> *"Nothing happened."*
+> — **Roronoa Zoro** ⚔️
+
+> *"If you don't fight, you can't win! Fight! Fight!"*
+> — **Eren Yeager** 🔥
+
+> *"Dedicate your hearts!"*
+> — **Erwin Smith** 💪
+
+> *"The world is cruel, but also very beautiful."*
+> — **Annie Leonhart** 🌹
+
+> *"Talent is something you make bloom, instinct is something you polish."*
+> — **Jinpachi Ego** 💎
+
+---
+
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-ff69b4?style=for-the-badge" alt="Thanks"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=preethamb97&color=orange&style=for-the-badge)
+
+</div>
+
+---
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -100,12 +141,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/dbzgoku.gif" width="200px">
-
-**Code all day!** 😈
-
-</div>
