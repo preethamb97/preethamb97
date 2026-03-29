@@ -27,7 +27,10 @@
 
 📫 **Reach me at:** preethamb97@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=preethamb97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=preethamb97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/preethamb97?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
 
 </div>
 
