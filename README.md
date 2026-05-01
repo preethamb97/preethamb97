@@ -6,8 +6,8 @@
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
 
-<a href="https://portfolio.trackitall.in" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-portfolio.trackitall.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+<a href="https://preethamb97.github.io/preetham-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
 <p align="center">
@@ -133,11 +133,6 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamb97&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=preethamb97&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
